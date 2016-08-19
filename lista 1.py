@@ -2,10 +2,10 @@
 print('Hello Word')
 
 #Questão 02
-a = "Eu tenho um sonho. O sonho de ver meus filhos julgados por sua personalidade, não pela cor de sua pele."
-print(a.upper())
-print(a.lower())
-print(a.title())
+Frase = "Eu tenho um sonho. O sonho de ver meus filhos julgados por sua personalidade, não pela cor de sua pele."
+print(Frase.upper())
+print(Frase.lower())
+print(Frase.title())
 
 #Questão 03
 a = 200
